@@ -12,11 +12,11 @@ p {
     box-shadow: -1px 4px 24px -1px rgba(0, 0, 0, 0.75);
     text-align: center;
     font-size: 60px;
-    color: #F28B41;
+    color: rgb(219, 121, 51);
 }
 
 p:hover {
-    color: black;
+    color: darkslategrey;
 }
 
 #clock {
