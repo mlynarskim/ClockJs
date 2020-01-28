@@ -1,0 +1,30 @@
+body {
+    background-color: #2A6041;
+    margin-top: 10%;
+}
+
+p {
+    padding: 0.5em;
+    margin-bottom: 100px;
+    background-color: #6BFFB8;
+    border: solid black 15px;
+    border-radius: 100px;
+    box-shadow: -1px 4px 24px -1px rgba(0, 0, 0, 0.75);
+    text-align: center;
+    font-size: 60px;
+    color: #F28B41;
+}
+
+p:hover {
+    color: black;
+}
+
+#clock {
+    padding: 0.5em;
+    text-align: center;
+    background-color: #28965A;
+    border: solid black 15px;
+    border-radius: 100px;
+    box-shadow: -1px 4px 24px -1px rgba(0, 0, 0, 0.75);
+    font-size: 60px;
+}
